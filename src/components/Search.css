@@ -1,0 +1,26 @@
+.search1{
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    border: 1px solid black;
+
+    
+}
+
+.search1_avatar>.MuiSvgIcon-root{
+    height: 50px;
+    width: 50px;
+}
+
+.search__icon{
+     margin-left: 300px;
+     border: 1px solid black;
+     width:320px;
+     height:30px;
+}
+
+.search__icon> input{
+    border: none;
+    width: 100px;
+    margin-right: 10px;
+}
